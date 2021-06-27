@@ -8,10 +8,7 @@ classifier = cv2.CascadeClassifier('E:\Code\Tesla\cars.xml')
 
 people = cv2.CascadeClassifier('E:\Code\Tesla\ppl.xml')
 
-'''
-I dont have a high end pc..So I cant use quality videos in this program but Id recommend you to use 
-any other video for good accuracy 
-'''
+#target video or webcam can also be turned on
 video = cv2.VideoCapture('E:\Code\Tesla\Test2.mp4')
 
 
