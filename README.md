@@ -1,2 +1,2 @@
 # Python-projects
-This repo will contain some interesting python projects.
+This repo will contain some basic opencv projects.
